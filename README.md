@@ -77,7 +77,7 @@
 ---
 
 ⭐ **Focused on building clean, scalable systems and real-world applications**
-## Hi there 👋
+
 
 <!--
 **Avishkar014/Avishkar014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
